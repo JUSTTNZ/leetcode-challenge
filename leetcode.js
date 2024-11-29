@@ -187,5 +187,5 @@ const equalZero = (array) => {
     }
     return totalArray
 }
-// equalZero(nums)
+equalZero(nums)
 console.log(equalZero(nums))
